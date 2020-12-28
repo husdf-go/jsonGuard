@@ -1,5 +1,4 @@
-{
-    "statsStation": [
+[
         {
             "name": "1",
             "stations": [
@@ -609,4 +608,3 @@
             ]
         }
     ]
-}
