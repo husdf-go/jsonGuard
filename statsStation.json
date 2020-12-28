@@ -1,0 +1,612 @@
+{
+    statsStation: [
+        {
+            name: "1",
+            stations: [
+                {    
+                    name: "Est-1",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 123
+                        },
+                        {
+                            name: "Alarme",
+                            value: 18
+                        },
+                        {
+                            name: "Alerta",
+                            value: 34
+                        },
+                        {
+                            name: "Offline",
+                            value: 18
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-2",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 86
+                        },
+                        {
+                            name: "Alarme",
+                            value: 29
+                        },
+                        {
+                            name: "Alerta",
+                            value: 51
+                        },
+                        {
+                            name: "Offline",
+                            value: 20
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-3",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 104
+                        },
+                        {
+                            name: "Alarme",
+                            value: 32
+                        },
+                        {
+                            name: "Alerta",
+                            value: 54
+                        },
+                        {
+                            name: "Offline",
+                            value: 25
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-4",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 140
+                        },
+                        {
+                            name: "Alarme",
+                            value: 30
+                        },
+                        {
+                            name: "Alerta",
+                            value: 15
+                        },
+                        {
+                            name: "Offline",
+                            value: 25
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-5",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 94
+                        },
+                        {
+                            name: "Alarme",
+                            value: 30
+                        },
+                        {
+                            name: "Alerta",
+                            value: 43
+                        },
+                        {
+                            name: "Offline",
+                            value: 5
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-6",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 23
+                        },
+                        {
+                            name: "Alarme",
+                            value: 89
+                        },
+                        {
+                            name: "Alerta",
+                            value: 60
+                        },
+                        {
+                            name: "Offline",
+                            value: 53
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-7",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 194
+                        },
+                        {
+                            name: "Alarme",
+                            value: 5
+                        },
+                        {
+                            name: "Alerta",
+                            value: 1
+                        },
+                        {
+                            name: "Offline",
+                            value: 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            name: "7",
+            stations: [
+                {    
+                    name: "Est-1",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 43
+                        },
+                        {
+                            name: "Alarme",
+                            value: 28
+                        },
+                        {
+                            name: "Alerta",
+                            value: 42
+                        },
+                        {
+                            name: "Offline",
+                            value: 23
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-2",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 134
+                        },
+                        {
+                            name: "Alarme",
+                            value: 15
+                        },
+                        {
+                            name: "Alerta",
+                            value: 32
+                        },
+                        {
+                            name: "Offline",
+                            value: 14
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-3",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 222
+                        },
+                        {
+                            name: "Alarme",
+                            value: 5
+                        },
+                        {
+                            name: "Alerta",
+                            value: 2
+                        },
+                        {
+                            name: "Offline",
+                            value: 6
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-4",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 174
+                        },
+                        {
+                            name: "Alarme",
+                            value: 12
+                        },
+                        {
+                            name: "Alerta",
+                            value: 26
+                        },
+                        {
+                            name: "Offline",
+                            value: 32
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-5",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 150
+                        },
+                        {
+                            name: "Alarme",
+                            value: 20
+                        },
+                        {
+                            name: "Alerta",
+                            value: 73
+                        },
+                        {
+                            name: "Offline",
+                            value: 0
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-6",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 163
+                        },
+                        {
+                            name: "Alarme",
+                            value: 17
+                        },
+                        {
+                            name: "Alerta",
+                            value: 26
+                        },
+                        {
+                            name: "Offline",
+                            value: 53
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-7",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 173
+                        },
+                        {
+                            name: "Alarme",
+                            value: 35
+                        },
+                        {
+                            name: "Alerta",
+                            value: 23
+                        },
+                        {
+                            name: "Offline",
+                            value: 12
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            name: "15",
+            stations: [
+                {    
+                    name: "Est-1",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 205
+                        },
+                        {
+                            name: "Alarme",
+                            value: 10
+                        },
+                        {
+                            name: "Alerta",
+                            value: 62
+                        },
+                        {
+                            name: "Offline",
+                            value: 100
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-2",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 5
+                        },
+                        {
+                            name: "Alarme",
+                            value: 154
+                        },
+                        {
+                            name: "Alerta",
+                            value: 42
+                        },
+                        {
+                            name: "Offline",
+                            value: 12
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-3",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 153
+                        },
+                        {
+                            name: "Alarme",
+                            value: 12
+                        },
+                        {
+                            name: "Alerta",
+                            value: 42
+                        },
+                        {
+                            name: "Offline",
+                            value: 26
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-4",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 195
+                        },
+                        {
+                            name: "Alarme",
+                            value: 23
+                        },
+                        {
+                            name: "Alerta",
+                            value: 31
+                        },
+                        {
+                            name: "Offline",
+                            value: 15
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-5",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 123
+                        },
+                        {
+                            name: "Alarme",
+                            value: 32
+                        },
+                        {
+                            name: "Alerta",
+                            value: 15
+                        },
+                        {
+                            name: "Offline",
+                            value: 7
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-6",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 167
+                        },
+                        {
+                            name: "Alarme",
+                            value: 16
+                        },
+                        {
+                            name: "Alerta",
+                            value: 21
+                        },
+                        {
+                            name: "Offline",
+                            value: 18
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-7",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 183
+                        },
+                        {
+                            name: "Alarme",
+                            value: 21
+                        },
+                        {
+                            name: "Alerta",
+                            value: 12
+                        },
+                        {
+                            name: "Offline",
+                            value: 34
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            name: "30",
+            stations: [
+                {    
+                    name: "Est-1",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 165
+                        },
+                        {
+                            name: "Alarme",
+                            value: 15
+                        },
+                        {
+                            name: "Alerta",
+                            value: 23
+                        },
+                        {
+                            name: "Offline",
+                            value: 25
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-2",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 132
+                        },
+                        {
+                            name: "Alarme",
+                            value: 32
+                        },
+                        {
+                            name: "Alerta",
+                            value: 54
+                        },
+                        {
+                            name: "Offline",
+                            value: 24
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-3",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 125
+                        },
+                        {
+                            name: "Alarme",
+                            value: 14
+                        },
+                        {
+                            name: "Alerta",
+                            value: 17
+                        },
+                        {
+                            name: "Offline",
+                            value: 54
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-4",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 156
+                        },
+                        {
+                            name: "Alarme",
+                            value: 13
+                        },
+                        {
+                            name: "Alerta",
+                            value: 32
+                        },
+                        {
+                            name: "Offline",
+                            value: 23
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-5",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 152
+                        },
+                        {
+                            name: "Alarme",
+                            value: 12
+                        },
+                        {
+                            name: "Alerta",
+                            value: 32
+                        },
+                        {
+                            name: "Offline",
+                            value: 54
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-6",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 124
+                        },
+                        {
+                            name: "Alarme",
+                            value: 32
+                        },
+                        {
+                            name: "Alerta",
+                            value: 23
+                        },
+                        {
+                            name: "Offline",
+                            value: 32
+                        }
+                    ]
+                },
+                {    
+                    name: "Est-7",
+                    status: [
+                        {
+                            name: "OK",
+                            value: 155
+                        },
+                        {
+                            name: "Alarme",
+                            value: 51
+                        },
+                        {
+                            name: "Alerta",
+                            value: 12
+                        },
+                        {
+                            name: "Offline",
+                            value: 33
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
