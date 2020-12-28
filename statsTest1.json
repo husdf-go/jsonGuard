@@ -1,0 +1,25 @@
+{
+    statsStation: [
+        {    
+            name: "Est-7",
+            status: [
+                {
+                    name: "OK",
+                    value: 155
+                },
+                {
+                    name: "Alarme",
+                    value: 51
+                },
+                {
+                    name: "Alerta",
+                    value: 12
+                },
+                {
+                    name: "Offline",
+                    value: 33
+                }
+            ]
+        }
+    ]
+}
